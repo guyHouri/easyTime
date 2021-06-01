@@ -2,6 +2,8 @@
 android app that helps young students manage their time between school, friends and scouts.
 created by guy houri as 12 grade computer science project
 
+video of activating the app - https://youtu.be/pDtdwf04S2o
+
 the app has five main aspects.
 the first - the login and sign up.
 in the app there is a list of users that is automaticlly save by json so a user can close the app and reopen it and enter to his user.
